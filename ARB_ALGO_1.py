@@ -6,7 +6,7 @@ Profit_threshold= 5 # ($ per 1000 shares)
 
 optimal_order_size = 5000
 
-API_KEY = {'X-API-Key': '69LC227Y'}
+API_KEY = {'X-API-Key': 'YOUR_API_KEY_HERE'}
 shutdown = False
 total_speedbumps = 0
 number_of_orders = 0
